@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+.env
+.env.local
+*.pyc
+__pycache__
+*.egg-info
+.DS_Store
+venv/
+.venv/
+app.py
+node_modules/
+.next/
+research/
+data/
